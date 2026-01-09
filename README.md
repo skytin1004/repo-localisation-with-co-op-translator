@@ -45,4 +45,6 @@ Change them in `.github/workflows/co-op-translator.yml`.
 
 ## Notes
 
+
 - Co-op Translator project: `https://github.com/Azure/co-op-translator`
+  
