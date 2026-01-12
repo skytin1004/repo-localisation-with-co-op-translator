@@ -1,5 +1,7 @@
 # Repository localisation demo (Co-op Translator + GitHub Actions)
 
+This is exacly the kind of edit
+
 This repository is configured as a **live demo** for automating documentation localisation:
 
 - You edit a Markdown file (e.g. `README.md`)
@@ -48,3 +50,4 @@ Change them in `.github/workflows/co-op-translator.yml`.
 
 - Co-op Translator project: `https://github.com/Azure/co-op-translator`
   
+
