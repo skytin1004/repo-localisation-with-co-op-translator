@@ -1,12 +1,3 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "aefb678a1c4d1634764fb1ef970b6701",
-  "translation_date": "2026-01-12T19:36:31+00:00",
-  "source_file": "docs/intro.md",
-  "language_code": "ko"
-}
--->
 # 소개
 
 이 문서는 Co-op Translator가 `README.md`뿐만 아니라 다른 문서도 처리하는 모습을 보여주는 작은 데모 문서입니다.
